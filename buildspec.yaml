@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    CONTAINER_NAME: "rails-app"
+    CONTAINER_NAME: "ecs-handson-rails-app"
 
 phases:
   pre_build:
